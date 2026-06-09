@@ -11,7 +11,7 @@ All peripheral drivers are written at the register level against [RM0394](https:
 | | |
 |---|---|
 | ![Circuit](docs/images/circuit.png) | ![LCD close-up](docs/images/lcd.png) |
-| *Full circuit* | *LCD display — A#4, sharp* |
+| *Full circuit* | *LCD display — A#2, sharp* |
 
 ![Demo](docs/images/video_demo.gif)
 
